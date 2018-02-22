@@ -1,0 +1,13 @@
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Bll.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Bll.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Dal.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Interface.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Model.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Untility.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Dal.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Interface.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Model.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\bin\Debug\WebApiDemo.Untility.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\obj\Debug\WebApiDemo.Bll.csprojResolveAssemblyReference.cache
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\obj\Debug\WebApiDemo.Bll.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Bll\obj\Debug\WebApiDemo.Bll.pdb

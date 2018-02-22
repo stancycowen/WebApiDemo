@@ -1,0 +1,4 @@
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Dal\bin\Debug\WebApiDemo.Dal.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Dal\bin\Debug\WebApiDemo.Dal.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Dal\obj\Debug\WebApiDemo.Dal.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Dal\obj\Debug\WebApiDemo.Dal.pdb

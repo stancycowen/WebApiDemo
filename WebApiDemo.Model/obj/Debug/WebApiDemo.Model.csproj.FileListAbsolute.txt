@@ -1,0 +1,4 @@
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Model\bin\Debug\WebApiDemo.Model.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Model\bin\Debug\WebApiDemo.Model.pdb
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Model\obj\Debug\WebApiDemo.Model.dll
+D:\mycode\github\webapi\WebApiDemo\WebApiDemo.Model\obj\Debug\WebApiDemo.Model.pdb
